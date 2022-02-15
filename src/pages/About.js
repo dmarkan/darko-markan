@@ -6,7 +6,7 @@ const About = () => {
     <div class="col-md-6">
       <div class="col-auto">
       <h1>
-       O Meni
+       O meni
       </h1>
       <p>
       Još odmalena zavoleo sam video igre na računaru i odlučio da se školujem u tom smeru. Jako sam želeo da u budućnosti radim sa računarima ali nisam znao konkretno šta želim da radim. Nakon završenih škola radio sam razne poslove ali nikad nisam našao dovoljno vremena i dovoljno jaku motivaciju da nastavim da se edukujem u tom smeru. Kako je vreme prolazilo i kada sam osnovao svoju porodicu, odlučio sam da nastavim da jurim svoj san i da se bavim računarima.

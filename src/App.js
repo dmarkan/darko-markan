@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 import Home from './pages';
@@ -19,6 +20,7 @@ return (
         <Route path='/aplikacije' element={<Apps/>} />
         <Route path='/kontakt' element={<Contact/>} />
     </Routes>
+    <Footer />
     </Router>
 );
 }
