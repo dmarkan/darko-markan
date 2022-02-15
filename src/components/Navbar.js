@@ -10,22 +10,22 @@ const Navbar = () => {
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse nav" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">home</a>
+          <a class="nav-link active" aria-current="page" href="/">početak</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/about">about</a>
+          <a class="nav-link" href="/omeni">o meni</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/websites">websites</a>
+          <a class="nav-link" href="/websajtovi">websajtovi</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link" href="/apps">apps</a>
+        <a class="nav-link" href="/aplikacije">aplikacije</a>
         </li>
         <li class="nav-item">
-        <a class="nav-link" href="/contact">contact</a>
+        <a class="nav-link" href="/kontakt">kontakt</a>
         </li>
       </ul>
     </div>

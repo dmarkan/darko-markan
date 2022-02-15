@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.profile {
+    margin-top: 10vh;
+}
+
+.profile-border {
+    border-bottom-right-radius: 5rem !important;
+}
+
+.nav ul {
+    text-transform: uppercase;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.paragraph-txt {
+    text-align: left !important;
+    font-size: 1.1rem;
+}
+
+.obrazovanje-img {
+    padding: 1rem;
+}
+
+.about {
+    margin: 10vh 1rem 0 1rem;
+}

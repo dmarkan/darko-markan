@@ -14,10 +14,10 @@ return (
     <Navbar />
     <Routes>
         <Route exact path='/' exact element={<Home />} />
-        <Route path='/about' element={<About/>} />
-        <Route path='/websites' element={<Websites/>} />
-        <Route path='/apps' element={<Apps/>} />
-        <Route path='/contact' element={<Contact/>} />
+        <Route path='/omeni' element={<About/>} />
+        <Route path='/websajtovi' element={<Websites/>} />
+        <Route path='/aplikacije' element={<Apps/>} />
+        <Route path='/kontakt' element={<Contact/>} />
     </Routes>
     </Router>
 );
