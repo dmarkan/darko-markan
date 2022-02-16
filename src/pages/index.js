@@ -13,7 +13,7 @@ const Home = () => {
           <h3 class="mb-0">Moje ime je Darko Markan</h3>
           <div class="mb-1 text-muted">ja sam <span class="pro">pro</span>gramer</div>
           <p class="card-text mb-auto paragraph-txt">Još odmalena zavoleo sam video igre na računaru i odlučio da se školujem u tom smeru. Jako sam želeo da u budućnosti radim sa računarima ali nisam znao konkretno šta želim da radim. Nakon završenih škola radio sam razne poslove ali nikad nisam našao dovoljno vremena i dovoljno jaku motivaciju da nastavim da se edukujem u tom smeru. Kako je vreme prolazilo i kada sam osnovao svoju porodicu, odlučio sam da nastavim da jurim svoj san i da se bavim računarima.</p>
-          <a class="nav-link" href="/about">PROČITAJ VIŠE</a>
+          <a class="nav-link" href="/omeni">PROČITAJ VIŠE</a>
         </div>
     
       </div>
