@@ -9,10 +9,21 @@ const Contact = () => {
       Kontakt
       </h1>
       <p class="paragraph-txt">Ako ste zainteresovani za saradnju možete me kontaktirati na mail:</p>
-      <p class="paragraph-txt">markandarko@yahoo.com</p>
+      <p class="paragraph-txt mail">markandarko@yahoo.com</p>
+      <h4 class="zapratite">Zapratite me na društvenim mrežama</h4>
+<ul class="list-group list-group-horizontal mreze">
+    <li class="list-group-item"><a href="https://www.instagram.com/darkomarkan" target="_blank"><i class="fab fa-instagram fa-5x"></i></a>
+    </li>
+    <li class="list-group-item"><a href="https://www.facebook.com/darko.markan.39" target="_blank"><i class="fab fa-facebook fa-5x"></i></a>
+    </li>
+    <li class="list-group-item"><a href="https://www.linkedin.com/in/darko-markan-36b922203" target="_blank"><i class="fab fa-linkedin fa-5x"></i></a>
+    </li>
+    <li class="list-group-item"><a href="https://github.com/dmarkan" target="_blank"><i class="fab fa-github fa-5x"></i></a>
+    </li>
+  </ul>
+</div>
     </div>
-    </div>
-    </div>
+    </div> 
   );
 };
   
